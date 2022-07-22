@@ -1,0 +1,108 @@
+# Spring 2021
+
+1: ["January 11th - January 17th", "January 19th @ 11:59PM"]
+2: ["January 18th - January 24th", "January 25th @ 11:59PM"]
+3: ["January 24th - January 31st", "February 1st @ 11:59AM"]
+4: ["February 1st - February 7th", "February 8th @ 11:59PM"]
+5: ["February 8th - February 14th", "February 16th @ 11:59PM"]
+6: ["February 15th - February 21st", "February 22nd @ 11:59PM"]
+7: ["February 22nd - February 28th", "March 1st @ 11:59PM"]
+8: ["March 1st - March 7th", "March 8th @ 11:59PM"]
+9: ["March 8th - March 14th", "March 15th @ 11:59PM"]
+10: ["March 15th - March 21st", "March 22nd @ 11:59PM"]
+11: ["March 22nd - March 28th", "March 29th @ 11:59PM"]
+12: ["March 29th - April 4th", "April 5th @ 11:59PM"]
+13: ["April 5th - April 11th", "April 12th @ 11:59PM"]
+14: ["April 12st - April 18th", "April 19th @ 11:59PM"]
+15: ["April 19th - April 25th", "Final Due April 30th @11:59PM"]
+
+
+
+# Fall 2020
+ #1: ["August 19th - August 23rd", "August 24th @ 11:59PM"]
+ #2: ["August 24th - August 30th", "August 31st @ 11:59PM"]
+ #3: ["August 31st - September 6th", "September 7th @ 11:59PM"]
+ #4: ["September 7th - September 13th", "September 14th @ 11:59PM"]
+ #5: ["September 14th - September 20th", "September 21st @ 11:59PM"]
+ #6: ["September 21st - September 27th", "September 28th @ 11:59AM"]
+ #7: ["September 28th - October 4th", "October 5th @ 11:59PM"]
+ #8: ["October 5th - October 11th", "October 12th @ 11:59PM"]
+ #9: ["October 12th - October 18th", "October 19th @ 11:59PM"]
+ #10: ["October 19th - October 25th", "October 26th @ 11:59PM"]
+ #11: ["October 26th - November 1st", "November 2nd @ 11:59PM"]
+ #12: ["November 2nd - November 8th", "November 9th @ 11:59PM"]
+ #13: ["November 9th - November 15th", "November 16th @ 11:59PM"]
+ #14: ["November 16th - November 22nd", "Work on Final"]
+ #15: ["November 23rd - November 25th", "Final"]
+
+# 14:# <br>Note: Spring Break is October 19th-24.", "NO HOMEWORK ASSIGNMENT THIS WEEK"
+# Since we expanded week 2, to be a 2 week sequence, there is no week 13 module this semester (Spring 2017)
+# 13: ["April 24th - April 30th", "May 1st @ 11:59pm"]
+
+# Spring 2019
+
+#1: ["January 13th - January 18th", "January 19th @ 11:55PM"]
+#2: ["January 20th - January 25th", "January 26th @ 11:55PM"]
+#3: ["January 27th - February 1st", "February 2nd @ 11:55AM"]
+#4: ["February 3rd - February 8th", "February 9th @ 11:55PM"]
+#5: ["February 17th - February 22nd", "February 23rd @ 11:55PM"]
+#6: ["February 24th - March 1st", "March 2nd @ 11:550PM"]
+#7: ["March 3rd - March 8th", "March 9th @ 11:55PM"]
+#8: ["March 10th - March 15th", "March 16th @ 11:55PM"]
+#9: ["March 17th - March 22nd", "March 23rd @ 11:55 PM"]
+#10: ["March 24th - March 29th", "No Homework - Spring Break"]
+#11: ["March 31st - April 5th", "April 6th @ 11:55PM"]
+#12: ["April 7th - April 12th", "April 13th @ 11:55PM"]
+#13: ["April 14th - April 19th", "April 20th @ 11:55PM"]
+#14: ["April 21st - April 26th", "April 27th @ 11:55PM"]
+#15: ["April 28th - May 3rd", "Final Due - May 3rd @ 11:55PM"]
+#hwCutoff: "December 3rd @ 8:00AM"
+#finalProposal: "November 29th @ 8:00AM"
+#Final-Project: ["November 15th - December 11th", "Tuesday, December 11th @ 8:00AM"]
+
+
+##############################################################################
+# # Spring 2018
+#
+# 1: ["January 22nd - January 25th", "January 26th @ 8:00AM"]
+# 2: ["January 26th - February 1st", "February 2nd @ 8:00AM"]
+# 3: ["February 2nd - February 8th", "February 9th @ 8:00AM"]
+# 4: ["February 9th - February 15th", "February 16th @ 8:00AM"]
+# 5: ["February 15th - February 22nd", "February 23rd @ 8:00AM"]
+# 6: ["February 23rd - March 1st", "March 2nd @ 8:00AM"]
+# 7: ["March 2nd - March 8th", "March 9th @ 8:00AM"]
+# 8: ["March 9th - March 15th", "March 16th @ 8:00AM"]
+# 9: ["March 16th - March 22nd", "NO HOMEWORK"]
+# 10: ["March 23rd - April 5th<br>Note: Spring Break runs from March 24th - April 1st", "April 5th @ 8:00AM"]
+# 11: ["April 6th - April 12th", "April 13th @ 8:00AM"]
+# 12: ["April 13th - April 19th", "April 20th @ 8:00AM"]
+# 13: ["April 20th - April 26th", "Final Project Proposal Due"]
+# 14: ["April 27th - April 4th", "Work on Final"]
+# hwCutoff: "May 1st @ 8:00AM"
+# finalProposal: "April 27th @ 8:00AM"
+# Final-Project: ["April 20th - May 8th", "Tuesday, May 8th @ 8:00AM"]
+
+
+###############################################################################
+### Fall 2017
+# 1: ["August 31st - September 6th", "September 7th @ 8:00AM"]
+# 2: ["September 7th - September 20th<br>NOTE: This week has been extended to last 2 weeks.", "September 21st @ 8:00AM"]
+# 3: ["September 21st - September 27th", "September 28th @ 8:00AM"]
+# 4: ["September 28th - October 4th", "October 5th @ 8:00AM"]
+# 5: ["October 5th - October 11th", "October 12th @ 8:00AM"]
+# 6: ["October 12th - October 18th", "October 19th @ 8:00AM"]
+# 7: ["October 19th - October 25th", "October 26th @ 8:00AM"]
+# 8: ["October 26th - November 1st", "November 2nd @ 8:00AM"]
+# 9: ["November 2nd - November 6th", "No Homework"]
+# 10: ["November 7th - November 14th", "November 15th @ 8:00AM"]
+# 11: ["November 15th - November 21st", "November 27th @ 8:00AM"]
+# 12: ["December 4th - December 12th", "December 13th @ 8:00AM"]
+# 13: ["December 4th - December 10th", "December 11th @ 8:00AM"]
+# 14: ["December 11th - December 12th", "Work on Final"]
+
+# 14:# <br>Note: Spring Break is October 19th-24.", "NO HOMEWORK ASSIGNMENT THIS WEEK"
+# Since we expanded week 2, to be a 2 week sequence, there is no week 13 module this semester (Spring 2017)
+# 13: ["April 24th - April 30th", "May 1st @ 11:59pm"]
+
+# Final Project Details
+# 0: ["November 16th - December 15th", "Friday, December 15th @ 5:00pm"]
