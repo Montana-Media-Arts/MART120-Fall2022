@@ -6,7 +6,7 @@ This course is designed to teach code so that it can become a tool for art and c
 
 Utilizing Code.org, Scratch, App Lab, Alice, HTML, CSS, JavaScript and [p5.js](https://p5js.org), this course teaches concepts from computer science and programming and allows us to apply it to our artistic expressions.
 
-- [_Creative Coding 1_ Website](https://montana-media-arts.github.io/120_CreativeCoding1-Spring2021/)
+- [_Creative Coding 1_ Website](https://montana-media-arts.github.io/120_CreativeCoding1-Fall2022/)
 
 
 ### Updated by
@@ -19,4 +19,4 @@ Utilizing Code.org, Scratch, App Lab, Alice, HTML, CSS, JavaScript and [p5.js](h
 
 ### Updated
 
-This course was last updated: 2021-9-5
+This course was last updated: 2022-7-22

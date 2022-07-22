@@ -33,7 +33,7 @@ module: 1
 
 <p>To watch the course repo:</p>
 <ol>
-    <li>Navigate to <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Spring2022-Samples/" target="_blank">Examples Website</a>. The issues forum for this site also links to the "Issues-Forum" tab above in the navbar.</li>
+    <li>Navigate to <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2022-Samples/" target="_blank">Examples Website</a>. The issues forum for this site also links to the "Issues-Forum" tab above in the navbar.</li>
     <li>In the upper right-hand corner, you should select both "watching" and "star".</li>
     <li>The star and watching allow GitHub to email you about notifications and issues in the course repo.</li>
     <li>When you have problems, please post them in the issues area.</li>
@@ -45,7 +45,7 @@ module: 1
 </div>
 
 <div id="Issues" class="tabcontent">
-<P>To create or respond to an issue, open the repo <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Spring2022-Samples/issues" target="_blank">"Issues Forum"</a>.</p>
+<P>To create or respond to an issue, open the repo <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2022-Samples/issues" target="_blank">"Issues Forum"</a>.</p>
 
 <p>There you can search open issues to try and:</p>
 <ul>
