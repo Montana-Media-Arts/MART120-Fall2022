@@ -125,7 +125,7 @@ module: 1
 <p>Here is a CLI activity for you to practice.</p>
 Here is an online Linux terminal if you want to work directly in the browser:
 <p>&nbsp;</p>
-<iframe src="https://cocalc.com/projects" width="100%" height="500"></iframe>
+Go to <a href="https://cocalc.com/projects" target="_blank">CoCalc</a>.
 <p>&nbsp;</p>
 <em>* Click on <strong>Welcome to CoCalc!</strong> and then click on the <strong>"+ New"</strong> icon and then <strong>Linux terminal</strong>
 <p>Be capable of performing the following actions via command line.</p>
