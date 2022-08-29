@@ -86,8 +86,20 @@ module: 1
 
 <ol>
 <li>Go to <a href="https://desktop.github.com/" target="_blank">GitHub Desktop</a></li>
-<li>Download your version and install it.</li>
+<li>Download your version and install it.
+<ul>
+<li>
+Install for Mac:<br>
+<iframe src="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=20" width="696" height="594" frameborder="0" allowfullscreen="allowfullscreen" title="Install GitHub Desktop App (Mac)"></iframe><script src="https://umontanamediaarts.com/MART341/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+</li>
+<li>
+Install for PC<br>
+<iframe src="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=21" width="696" height="546" frameborder="0" allowfullscreen="allowfullscreen" title="Install GitHub Desktop App (PC)"></iframe><script src="https://umontanamediaarts.com/MART341/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+</li>
+</ul>
+</li>
 <li>Go to your repository and click on the <b>Code</b> button.</li>
+
 <li>Click on <b>Open with GitHub Desktop</b>.</li>
 <li>Create a clone on your computer.</li>
 <li>Remember to pull first <b>always</b> and then push.</li>
