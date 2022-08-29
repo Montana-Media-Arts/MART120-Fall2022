@@ -63,7 +63,6 @@ There also will many code examples. Also, there will always be download buttons 
     <li>The advantage of the GitHub issues forum is its advanced system for including formatted code. Formatted code helps with problem-solving.</li>
     </ul>
 </li>
-<li>Go to the 127 Media Arts Lab -- You can access this lab 24 hours a day with your GrizCard.</li>
 <li>Get help from <a href="https://montana-media-arts.github.io/120_CreativeCoding1-Fall2022/instructors/#instructor-prof-michael-cassens">Michael Cassens</a> -- use me! That's why I am here!
     <ul>
     <li>If you have a problem, please contact me.  I am in my office a lot beyond my office hours, and I can work through Skype, TeamViewer, and Zoom.  Let me know!
