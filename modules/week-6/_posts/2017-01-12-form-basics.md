@@ -39,7 +39,7 @@ jotted: true
     </head>
     <body>
         
-        <form action="nextPage.html" type="Post">
+        <form action="nextPage.html" type="POST">
             First Name: <input type="text" id="fName"><br>
             Last Name: <input type="text" id="lName"><br>
             <button id="mySubmit" type="submit">Submit</button>
@@ -49,6 +49,7 @@ jotted: true
 
 ```
 
+Notice, we are using different attributes now.  We have the **action**, **type** and **id**.  These attributes just let the browser know where the form is going to go after the button is clicked -- **action** -- and how the form data will be stored when it goes to the other page **type="POST"** For the textboxes, the **type** is text and the **id** gives us a way to access the information.  We will go deeper into this when we get to JavaScript.  Finally, the button type **submit** just means the form will perform its action.
 </div>
 
 </div>
