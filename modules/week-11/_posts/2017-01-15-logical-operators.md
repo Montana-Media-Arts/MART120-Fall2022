@@ -1,6 +1,6 @@
 ---
 title: Logical Operators
-module: 12
+module: 11
 jotted: false
 ---
 

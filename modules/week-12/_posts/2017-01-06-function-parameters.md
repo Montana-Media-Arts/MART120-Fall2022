@@ -1,6 +1,6 @@
 ---
 title: Types of Function
-module: 13
+module: 12
 jotted: false
 ---
 
