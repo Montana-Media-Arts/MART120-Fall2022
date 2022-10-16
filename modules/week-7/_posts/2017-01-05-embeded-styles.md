@@ -34,14 +34,17 @@ jotted: true
 <html>
     <head>
         <title>Embedded Style Example</title>
-        <style>
+        <!-- notice the style tag is in between the open and closed head tag -->
+        <style> 
+        
             span{
                 background-color:red;
             }
         </style>
+        <!-- this is an example of an embedded style because it is between the style tags -->
     </head>
     <body>
-        <span>This is the first sentence.</span>
+        <span>This is the first sentence.</span> 
         <br />
             This is the second sentence.
         <br />
@@ -52,7 +55,7 @@ jotted: true
 
 </div>
 
-<p>In this example, you see the first, and the third sentence has a background color of red. While the second sentence does not.  The style at the top of the page within the <b>&lt;head&gt;</b> tags applies the background color to all span tags.</p>
+<p>*Note - a <b>span</b> tag is a tag that can be included inline with other text. It's allows us to style text that is inline with other text. In this example, you see the first, and the third sentence has a background color of red. While the second sentence does not.  The style at the top of the page within the <b>&lt;head&gt;</b> tags applies the background color to all span tags.</p>
 
 <p>What are some of the positives and negatives of using embedded styles?</p>
 

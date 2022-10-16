@@ -45,6 +45,9 @@ What other tags do we need to make stuff show up?
 <p>What are these tags?</p>
 
 <ol>
+<li><b>html</b> - this is the main tag that lets the browser know that the page is going to contain HTML tags.</li>
+<li><b>head</b> - this is the tag that contains items that will not show up directly in the browser, but can affect the items that do show up in the browser (see the 'title' tag and CSS next week)</li>
+<li><b>title</b> - this tag is what is displayed at the top of the window of the browser or in the tab.  It does not show in the page itself.</li>
 <li><b>body</b> - this tag surrounds all the tags that are to show up in the web browser window.</li>
 <li><b>h1</b> - this is a header tag. There are headers 1-6 where h1 is the largest and h6 is the smallest</li>
 <li><b>p</b> - the p tag creates paragraph breaks</li>

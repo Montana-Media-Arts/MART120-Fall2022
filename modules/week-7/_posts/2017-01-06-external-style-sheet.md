@@ -32,6 +32,10 @@ jotted: true
 <div class="tabhtml" markdown="1">
 
 ```css
+/* 
+This is what will go inside the external style sheet
+Notice that the <style> tags are not required here
+*/
 span{
     color:white;
     background-color:red;
@@ -54,6 +58,8 @@ span{
     <html>
         <head>
             <title>External Style Sheet</title>
+            <!-- This link tag allows us to connect the HTML page to the external stylesheet -->
+            <!-- Once again, notice this is in between the head tags of the HTML page -->
             <link rel="stylesheet" type="text/css" href="mainstyle.css">
         </head>
     </html>
