@@ -35,13 +35,15 @@ jotted: true
     <head>
         <title>Embedded Style Example</title>
         <!-- notice the style tag is in between the open and closed head tag -->
-        <style> 
+        <!-- this is an example of an embedded style because it is 
+        between the style tags -->
+       <style> 
         
             span{
                 background-color:red;
             }
         </style>
-        <!-- this is an example of an embedded style because it is between the style tags -->
+       
     </head>
     <body>
         <span>This is the first sentence.</span> 
