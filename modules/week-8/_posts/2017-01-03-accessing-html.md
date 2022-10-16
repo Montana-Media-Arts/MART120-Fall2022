@@ -34,7 +34,7 @@ jotted: true
 
 </div>
 
-<p>If you were to have an HTML page like the following, the JavaScript above would change the tag with the id "myTag".</p>
+<p>If you were to have an HTML page like the following, the JavaScript above would change the tag with the id "myTag" by using the function "getElementById" which comes from the document object.  We are accessing the DOM or the Document Object Model, which is essentially all the tags on the page with their IDs or names.</p>
 
 <div class="tabhtml" markdown="1">
 
