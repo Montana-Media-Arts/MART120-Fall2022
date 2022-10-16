@@ -37,7 +37,7 @@ jotted: true
 
 </div>
 
-<p>This style removes the underline from the link to eBay.  It is important to note that <b>style</b> attribute only applies to this particular tag and no other tags on this page.  We will return to this point later.</p>  <p><b>Remember</b> An attribute is just a property of the tag.</p>
+<p>This style removes the underline from the link to eBay.  It is important to note that <b>style</b> attribute only applies to this particular tag and no other tags on this page.  We will return to this point later.</p>  <p><b>Remember</b> An attribute is just a property of the tag, which provide more information about a tag.</p>
 
 <p>What do we need to consider when we use inline styles? If we use inline styles and want that style on another page, we will need to duplicate the style on that page.  Not bad unless we have many pages with multiple tags that need to be changed.</p>
 
