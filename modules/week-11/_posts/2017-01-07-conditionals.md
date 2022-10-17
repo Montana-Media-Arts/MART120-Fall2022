@@ -408,57 +408,42 @@ What if we do this?
         background(0);
         fill(24,200,29);
         circle(x,y,diameter);
-        if(x <= 300)
-        {
-            x+=10;
+       if (x > 300) {
+            x = 50;
         }
-        else if(x > 200 )
-        {
-            x+=5;
-            console.log("second else if for x");
+        else if (x > 200) {
+            x += 5;
         }
-        else if(x > 300)
-        {
-           x = 50;
-        }  
-       
+        else if (x <= 300) {
+            x += 10;
+        } 
         
-        if(y <= 300)
-        {
-            y+=3;
-        }
-        else if(y > 200)
-        {
-            y+=1;
-            console.log("second else if for y");
-        }
-        else if(y > 300)
-        {
+        if (y > 300) {
             y = 50;
-        }  
-        
-        
-        if(diameter <= 300)
-        {
-            diameter+=8;
         }
-        else if(diameter > 200)
-        {
-            diameter +=4;
-            console.log("second else if for diameter");
+        else if (y > 200) {
+            y += 1;
+        } 
+        else if (y <= 300) {
+            y += 3;
         }
-        else if(diameter > 300)
-        {
+
+        if (diameter > 300) {
             diameter = 25;
-        }  
+        }
+        else if (diameter > 200) {
+            diameter += 4;
+            console.log("second else if for diameter");
+        } 
+        else if (diameter <= 300) {
+            diameter += 8;
+        } 
         
     }
 
 ```
 
 Now, did you see a change?  What happened?  Did it get to the third else if? How can we get it to work the way we want?
-
-To make it work the way we want, we must change a couple of things.  Go to the next section to find out.
 
 </div>
 </div>
